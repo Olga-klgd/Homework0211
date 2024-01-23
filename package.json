@@ -9,7 +9,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Olga-klgd/Homework0211.git"
-
   },
   "keywords": [],
   "author": "",
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com:Olga-klgd/Homework0211/issues"
   },
-  "homepage": "https://github.com:Olga-klgd/Homework0211#readme"
+  "homepage": "https://github.com:Olga-klgd/Homework0211#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
