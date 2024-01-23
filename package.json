@@ -1,0 +1,21 @@
+{
+  "name": "homework0211",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olga-klgd/Homework0211.git"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com:Olga-klgd/Homework0211/issues"
+  },
+  "homepage": "https://github.com:Olga-klgd/Homework0211#readme"
+}
